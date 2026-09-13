@@ -34,4 +34,4 @@
 <br>
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0A0F0D&section=footer&reversal=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0A0F0D&section=footer&reversal=false"/>
