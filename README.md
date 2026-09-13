@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <img src="./assets/cat2.gif" width="340">
+  <img src="./assets/cat.gif" width="140">
 </div>
 
 <br>
