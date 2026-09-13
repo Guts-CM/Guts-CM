@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <img src="./assets/cat.gif" width="140">
+  <img src="./assets/cat1.gif" width="140">
 </div>
 
 <br>
@@ -34,4 +34,4 @@
 <br>
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=30453C&section=footer&reversal=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1D2A25&section=footer&reversal=false"/>
