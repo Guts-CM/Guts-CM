@@ -27,7 +27,7 @@
     <br>
 <div align="center">
 
-<div data-importer="socials" align="left">
+<div data-importer="socials" align="center">
   <a href="https://www.instagram.com/zeusmontero_?stkn=dnA1NzdqbzYwZWRt&utm_source=qr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
@@ -49,7 +49,7 @@
 
   <img src="./assets/skills.svg" alt="skills" />
 
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
@@ -73,11 +73,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guts-CM/Guts-CM/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guts-CM/Guts-CM/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Guts-CM/Guts-CM/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
+<img data-importer="snake" src="https://raw.githubusercontent.com/Guts-CM/Guts-CM/snake-output/snake.svg" alt="Snake animation" />
 
 </div>
 
