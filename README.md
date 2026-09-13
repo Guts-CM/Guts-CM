@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/header.svg" alt="header" />
+</p>
 
-<!--
-**Guts-CM/Guts-CM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./assets/about.svg" alt="about" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="./assets/skills.svg" alt="skills" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="./assets/gh-stats.svg" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="./assets/footer.svg" alt="footer" />
+</p>
