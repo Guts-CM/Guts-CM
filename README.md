@@ -1,8 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1D2A25&section=header&reversal=false"/>
 
+<img src="./assets/spacer.svg" width="100%" height="25" alt="" />
+
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Guts-CM.Guts-CM&right_color=gray"  />
 </div>
+
+<img src="./assets/spacer.svg" width="100%" height="25" alt="" />
 
 <div align="center">
   <samp>
@@ -10,21 +14,23 @@
       ソフトウェアエンジニア
 </div>
 
-<br>
-<br>
+<img src="./assets/spacer.svg" width="100%" height="25" alt="" />
 
 <div align="center">
   <img src="./assets/cat1.gif" width="300">
 </div>
 
-<br>
+<img src="./assets/spacer.svg" width="100%" height="25" alt="" />
+
 <details align="center">
     <summary>
       <samp>
         <b>More Info</b>
       </samp>
     </summary>
-    <br>
+
+<img src="./assets/spacer.svg" width="100%" height="25" alt="" />
+
 <div align="center">
 
 <div data-importer="socials" align="center">
@@ -45,9 +51,15 @@
   </a>
 </div>
 
+<img src="./assets/spacer.svg" width="100%" height="25" alt="" />
+
   <img src="./assets/about.svg" alt="about" />
 
+<img src="./assets/spacer.svg" width="100%" height="25" alt="" />
+
   <img src="./assets/skills.svg" alt="skills" />
+
+<img src="./assets/spacer.svg" width="100%" height="25" alt="" />
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -73,13 +85,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Guts-CM/Guts-CM/snake-output/snake.svg" alt="Snake animation" />
-
 </div>
 
 </details>
 
-<br>
-<br>
+<img src="./assets/spacer.svg" width="100%" height="25" alt="" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1D2A25&section=footer&reversal=false"/>
