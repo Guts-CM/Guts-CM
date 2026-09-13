@@ -1,19 +1,17 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="header" />
-</p>
+<div align="center">
+  <img src="./assets/cat.gif" width="240" alt="cat" />
 
-<p align="center">
-  <img src="./assets/about.svg" alt="about" />
-</p>
+  <details>
+    <summary>
+      <img src="./assets/more-info.svg" alt="more info" />
+    </summary>
 
-<p align="center">
-  <img src="./assets/skills.svg" alt="skills" />
-</p>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0A0F0D&section=header&reversal=false" alt="header" />
 
-<p align="center">
-  <img src="./assets/gh-stats.svg" alt="stats" />
-</p>
+    <img src="./assets/about.svg" alt="about" />
 
-<p align="center">
-  <img src="./assets/footer.svg" alt="footer" />
-</p>
+    <img src="./assets/skills.svg" alt="skills" />
+
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0A0F0D&section=footer&reversal=false" alt="footer" />
+  </details>
+</div>
